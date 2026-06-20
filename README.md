@@ -1,0 +1,2 @@
+# kubelab.sh
+ArgoCD manifests
