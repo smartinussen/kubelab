@@ -12,7 +12,7 @@ data:
         - ArgoCD:
             href: https://argocd.kubelab.sh
             description: GitOps for Kubernetes
-            icon: argocd.png
+            icon: argo-cd.png
   bookmarks.yaml: |
     []
   widgets.yaml: |
