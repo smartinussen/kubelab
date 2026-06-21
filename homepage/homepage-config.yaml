@@ -13,10 +13,10 @@ data:
             href: https://argocd.kubelab.sh
             description: GitOps for Kubernetes
             icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/argo-cd.png
-        - Longohrn:
-          href: https://longhorn.kubelab.sh
-          description: Longhorn control panel for PV storage
-          icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/longhorn.png
+        - Longhorn:
+            href: https://longhorn.kubelab.sh
+            description: Longhorn control panel for PV storage
+            icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/longhorn.png
   bookmarks.yaml: |
     []
   widgets.yaml: |
