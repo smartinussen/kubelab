@@ -17,6 +17,10 @@ data:
             href: https://longhorn.kubelab.sh
             description: Longhorn control panel for PV storage
             icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/longhorn.png
+        - Forgejo:
+            href: https://code.kubelab.sh
+            description: Self-hosted instance of Forgejo git handler
+            icon: https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/forgejo.png
   bookmarks.yaml: |
     []
   widgets.yaml: |
